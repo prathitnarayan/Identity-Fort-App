@@ -41,6 +41,8 @@ dependencies:
   # QR Code Scanning
   # mobile_scanner: ^7.0.1
   mobile_scanner: ^5.2.3
+  cryptography: ^2.7.0
+
   # pubspec.yaml
   # mobile_scanner: 3.3.0+3
 
